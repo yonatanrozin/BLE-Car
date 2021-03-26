@@ -26,7 +26,7 @@ The single limitation to the accessibility is browser compatibility. The Web Blu
 ### Software
 
 For developers:
-- The [Arduino IDE](https://www.arduino.cc/en/software)
+- The [Arduino IDE](https://www.arduino.cc/en/software) with the [ArduinoBLE library](https://www.arduino.cc/en/Reference/ArduinoBLE) installed
 
 For users:
 - The [Bluefy mobile browser](https://apps.apple.com/us/app/bluefy-web-ble-browser/id1492822055)
