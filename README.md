@@ -42,3 +42,6 @@ Software requirements for both developer and user are minimal. Developers simply
 
 ## Code and Process
 An in-depth look at the code and the programming process can be found on [my blog](https://wp.nyu.edu/yonatanrozin/ble-car/).
+
+## Credits
+A huge special thanks to [Tom Igoe](https://tigoe.com/) for
