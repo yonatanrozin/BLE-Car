@@ -44,4 +44,4 @@ Software requirements for both developer and user are minimal. Developers simply
 An in-depth look at the code and the programming process can be found on [my blog](https://wp.nyu.edu/yonatanrozin/ble-car/).
 
 ## Credits
-A huge special thanks to [Tom Igoe](https://tigoe.com/) for
+A huge special thanks to [Tom Igoe](https://tigoe.com/) for his [connected devices class](https://itp.nyu.edu/classes/connected-devices/syllabus-spring-2021/schedule-spring-2021/) and for providing a ton of helpful insight and code examples!
