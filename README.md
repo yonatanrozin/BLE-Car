@@ -35,4 +35,4 @@ For users:
 
 ### Schematic Diagram:
 
-[A schematic diagram of an Arduino Nano 33 IoT hooked up to 2 DC motors through a TB6612FNG motor driver](https://github.com/yonatanrozin/BLE-Car/blob/main/Images/BLE%20Car%20Schematic.jpg)
+![A schematic diagram of an Arduino Nano 33 IoT hooked up to 2 DC motors through a TB6612FNG motor driver](https://github.com/yonatanrozin/BLE-Car/blob/main/Images/BLE%20Car%20Schematic.jpg)
