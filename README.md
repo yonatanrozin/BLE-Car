@@ -31,4 +31,3 @@ For developers:
 For users:
 - The [Bluefy mobile browser](https://apps.apple.com/us/app/bluefy-web-ble-browser/id1492822055)
 
-<code> wowowowowow </code>
