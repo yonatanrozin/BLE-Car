@@ -36,3 +36,6 @@ For users:
 ### Schematic Diagram:
 
 ![A schematic diagram of an Arduino Nano 33 IoT hooked up to 2 DC motors through a TB6612FNG motor driver](https://github.com/yonatanrozin/BLE-Car/blob/main/Images/BLE%20Car%20Schematic.jpg)
+
+Software requirements for both developer and user are minimal. Developers simply need to upload the [Arduino Code](https://github.com/yonatanrozin/BLE-Car/blob/main/BLE_car.ino) to the board. Users can then access the BLE controller by loading [blecar.glitch.me](blecar.glitch.me) on the mobile Bluefy browser.
+
