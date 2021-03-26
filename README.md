@@ -31,3 +31,8 @@ For developers:
 For users:
 - The [Bluefy mobile browser](https://apps.apple.com/us/app/bluefy-web-ble-browser/id1492822055)
 
+## Assembly Instructions
+
+### Schematic Diagram:
+
+[A schematic diagram of an Arduino Nano 33 IoT hooked up to 2 DC motors through a TB6612FNG motor driver](https://github.com/yonatanrozin/BLE-Car/blob/main/Images/BLE%20Car%20Schematic.jpg)
