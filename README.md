@@ -1,6 +1,5 @@
 # BLE-Car Prototype
-A remote-controlled car operated through Bluetooth LE on an HTML page.
-Please visit [my blog](https://wp.nyu.edu/yonatanrozin/ble-car/) for an in-depth look at the programming process!
+A remote-controlled car operated through Bluetooth LE from any Bluetooth-enabled computer or mobile device.
 
 ## Introduction
 
@@ -40,9 +39,3 @@ For users:
 ![A schematic diagram of an Arduino Nano 33 IoT hooked up to 2 DC motors through a TB6612FNG motor driver](https://github.com/yonatanrozin/BLE-Car/blob/main/Images/BLE%20Car%20Schematic.jpg)
 
 Software requirements for both developer and user are minimal. Developers simply need to upload the [Arduino Code](https://github.com/yonatanrozin/BLE-Car/blob/main/BLE_car.ino) to the board. Users can then access the BLE controller by loading [https://blecar.glitch.me](https://blecar.glitch.me) on the mobile Bluefy browser.
-
-## Code and Process
-An in-depth look at the code and the programming process can be found on [my blog](https://wp.nyu.edu/yonatanrozin/ble-car/).
-
-## Credits
-A huge special thanks to [Tom Igoe](https://tigoe.com/) for his [connected devices class](https://itp.nyu.edu/classes/connected-devices/syllabus-spring-2021/schedule-spring-2021/) and for providing a ton of helpful insight and code examples!
